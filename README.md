@@ -1,6 +1,6 @@
 ## Hi there 👋
-
-## I'am Athul from India. and i do content on Design and Development. I really enjoy learning languages and frameworks like react and react native, as well as work in wordpress. I also enjoy wireframing ui , ux and design in general .
+## Hey I'am Athul
+## A passionate frontend developer from India and i do content on Design and Development. I really enjoy learning languages and frameworks like react and react native, as well as work in wordpress. I also enjoy wireframing ui , ux and design in general .
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevAthul-88)](https://github.com/anuraghazra/github-readme-stats)
