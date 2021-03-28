@@ -23,7 +23,7 @@ Tell me a fact about dogs (Bixby says a fact about dogs).
 - ⚡ Fun fact: I just drove all the way across the country in an electric car.
 -->
 ## About Me
-I love to create interactive/responsive website's and an avid learner. I want 
+I love to create interactive/responsive website's and an avid learner.
 
 
 <h3 align="center">A passionate frontend developer from India</h3>
