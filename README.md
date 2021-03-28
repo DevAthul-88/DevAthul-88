@@ -34,3 +34,5 @@ I love to create interactive/responsive website's and an avid learner.
 
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DevAthul-88&theme=dracula)](https://github.com/DenverCoder1/github-readme-streak-stats)
+
+https://github-profile-trophy.vercel.app/?username=DevAthul-88-ma&theme=dracula
