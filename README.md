@@ -1,6 +1,6 @@
 ## Hi there 👋
 ## Hey I'am Athul
-## A passionate frontend developer from India and i do content on Design and Development. I really enjoy learning languages and frameworks like react and react native, as well as work in wordpress. I also enjoy wireframing ui , ux and design in general .
+## A passionate frontend developer from India and i do content on Design and Development. I really enjoy learning languages and frameworks like react as well as work in wordpress. I also enjoy wireframing ui , ux and design in general .
 
 ## I am a problem solver. I thrive on utilizing my peers’ and my combined experience to produce creative, elegant solutions to difficult problems.
 
