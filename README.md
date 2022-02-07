@@ -1,7 +1,7 @@
 ## Hi there 👋
 ![banner](https://iili.io/ap6PcP.png)
 ##  Hey I'am Athul
-###  A passionate frontend developer from India and i do content on Design and Development. I really enjoy learning languages and frameworks like react , ember , php. I also enjoy wireframing ui , ux and design in general.
+###  A passionate full stack developer from India and i do content on Design and Development. I really enjoy learning languages and frameworks like react , ember , php. I also enjoy wireframing ui , ux and design in general.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevAthul-88&show_icons=true&theme=radical)](https://github.com/DevAthul-88/github-readme-stats)
 
@@ -9,7 +9,7 @@
 
 Here are some ideas to get you started:
 
--   🔭  I’m currently focusing on front end
+-   🔭  I’m currently focusing on full stack
 -   🌱  I’m currently learning evrything
 -   👯  I’m looking to collaborate on other devs
 -   🤔  I’m looking for help with community projects!
